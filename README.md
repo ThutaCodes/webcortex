@@ -140,12 +140,14 @@ Please adhere to the project's code style and include tests when applicable.
 
 ## License
 
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
+
 
 ---
 
 ## Contact
 
-For questions, suggestions, or support, please open an issue on the GitHub repository or contact the maintainers at [thutatun533@gmail.com] (mailto:thutatun533@gmail.com).
+For questions, suggestions, or support, please open an issue on the GitHub repository or contact the maintainers at  thutatun533@gmail.com.
 
 ---
 
